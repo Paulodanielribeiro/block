@@ -1,0 +1,47 @@
+#body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#app{
+    margin: 10px;
+    padding: 20px;
+    color:blue;
+    font-family: "regula";
+    font-size:medium;
+    background-color:antiquewhite;
+    font-weight: 200;
+    text-align: justify;
+    text-shadow: 20px;
+}
+@font-face {
+    font-family: "regula";
+    src: url(../src/fonts/Raleway-Regular.ttf);
+}
+@font-face {
+    font-family: "padrao";
+    src: url(../src/fonts/Raleway-Bold.ttf);
+}
+
+#container{
+    margin: 40%;
+    padding: 20px;
+    color: aqua;
+    font-size: larger;
+    text-align: justify;
+}
+#htmlContent{
+    font-family: "padrao";
+    margin: 20;
+    font-size: medium;
+    color: brown;
+    text-align: justify;
+}
+
+#div{
+    text-align: justify;
+    font-family: "regula";
+    font-size: medium;
+    color: aquamarine;
+}
